@@ -51,4 +51,4 @@ services:
       - notes-app-nw
 
 networks:
-  notes-app-nw::
+  notes-app-nw:
